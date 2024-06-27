@@ -90,6 +90,11 @@ block "ngo-antenna.com"
 block "atodeyo.com"
 block "t-phantom.jp"
 block "yaraon-blog.com"
+block "ytranking.net"
+block "logtube.jp"
+block "p2y.jp"
+block "suki-kira.com"
+block "tuber-review.com"
 
 # site is closed, but it still appears in search results
 block "nyfco.org"

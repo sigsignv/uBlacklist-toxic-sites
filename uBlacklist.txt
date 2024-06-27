@@ -44,6 +44,7 @@
 *://*.kururing.info/*
 *://*.lagcapa.org/*
 *://*.linart.net/*
+*://*.logtube.jp/*
 *://*.matome-new.com/*
 *://*.matomedane.jp/*
 *://*.miima.jp/*
@@ -56,6 +57,7 @@
 *://*.nicotubers.com/*
 *://*.nyfco.org/*
 *://*.one-search.net/*
+*://*.p2y.jp/*
 *://*.paradeparade.jp/*
 *://*.pentanews.net/*
 *://*.pimmsofficial.com/*
@@ -66,12 +68,14 @@
 *://*.seidentest.com/*
 *://*.shimashima01.net/*
 *://*.success-sword.com/*
+*://*.suki-kira.com/*
 *://*.syotiku9910.com/*
 *://*.t-phantom.jp/*
 *://*.taiblo.jp/*
 *://*.takamatsu-webmuseum.jp/*
 *://*.tarosoku.com/*
 *://*.tenbus.info/*
+*://*.tuber-review.com/*
 *://*.tuberz.net/*
 *://*.unkochan893.com/*
 *://*.v-link-world.com/*
@@ -90,6 +94,7 @@
 *://*.youtube5ch.com/*
 *://*.youtubermemories.com/*
 *://*.youtubernews.net/*
+*://*.ytranking.net/*
 *://*.yukiq.com/*
 *://*.yura-time.com/*
 *://*.yuu01.jp/*
