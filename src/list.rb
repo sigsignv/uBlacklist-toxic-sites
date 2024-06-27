@@ -110,6 +110,10 @@ block "aoimori-norin.jp"
 block "ti-blg-02.com"
 block "collieme.com"
 block "sasa-blog42.com"
+block "koregasiritai.com"
+block "youbunkakuritsu.blogspot.com", withoutSubdomain: true
+block "ashitanokioku.jp"
+block "newsnachricht.net"
 
 # site is closed, but it still appears in search results
 block "nyfco.org"
@@ -137,3 +141,4 @@ block "vtuber-labo.com"
 block "netsoku.com"
 block "gotube.info"
 block "artzone.jp"
+block "nicolehappiness.com"

@@ -9,6 +9,7 @@
 *://*.aokiin.com/*
 *://*.artzone.jp/*
 *://*.asamuch.com/*
+*://*.ashitanokioku.jp/*
 *://*.atodeyo.com/*
 *://*.bibi-star.jp/*
 *://*.blackshirts.info/*
@@ -48,6 +49,7 @@
 *://*.jonathan-movie.jp/*
 *://*.kanata12.com/*
 *://*.kokopyon.net/*
+*://*.koregasiritai.com/*
 *://*.kurojou.com/*
 *://*.kururing.info/*
 *://*.lagcapa.org/*
@@ -65,7 +67,9 @@
 *://*.myjitsu.jp/*
 *://*.nancreator.com/*
 *://*.netsoku.com/*
+*://*.newsnachricht.net/*
 *://*.ngo-antenna.com/*
+*://*.nicolehappiness.com/*
 *://*.nicotubers.com/*
 *://*.nyfco.org/*
 *://*.one-search.net/*
@@ -128,3 +132,4 @@
 *://vtuber-newsmtm.blog.jp/*
 *://vtuber-nijihoro.blog.jp/*
 *://vtubersokuhou.blog.jp/*
+*://youbunkakuritsu.blogspot.com/*
