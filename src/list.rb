@@ -52,6 +52,44 @@ block "jonathan-movie.jp"
 block "taiblo.jp"
 block "takamatsu-webmuseum.jp"
 block "tenbus.info"
+block "matome-new.com"
+block "mutyun.com"
+block "fgo-babylonia-cafe.jp"
+block "vtuber-matomeblog.com"
+block "vtubernews.jp"
+block "holosoku.com"
+block "vtuber-matomeruyon.blog.jp", withoutSubdomain: true
+block "nakamiya120719.livedoor.blog", withoutSubdomain: true
+block "vtuber-newsmtm.blog.jp", withoutSubdomain: true
+block "asbelllrin.livedoor.blog", withoutSubdomain: true
+block "kokopyon.net"
+block "unkochan893.com"
+block "oomonoyoutubersokuhou.blogo.jp", withoutSubdomain: true
+block "vtuber-nijihoro.blog.jp", withoutSubdomain: true
+block "coolpan.net"
+block "fire5ch.com"
+block "asamuch.com"
+block "gtk122.com"
+block "doujinsokuhou45.com"
+block "gamejksokuhou.com"
+block "tsuchiyatasuku.livedoor.blog", withoutSubdomain: true
+block "holo-news.com"
+block "nan-nan.blog.jp", withoutSubdomain: true
+block "vtubersokuhou.blog.jp", withoutSubdomain: true
+block "tarosoku.com"
+block "hakkisi.blog.fc2.com", withoutSubdomain: true
+block "joker004.blog.fc2.com", withoutSubdomain: true
+block "matomedane.jp"
+block "1blog.jp"
+block "rumors.sub.jp", withoutSubdomain: true
+block "comedydouga.com"
+block "5chmap.com"
+block "antenam.jp"
+block "2ch-c.net"
+block "ngo-antenna.com"
+block "atodeyo.com"
+block "t-phantom.jp"
+block "yaraon-blog.com"
 
 # site is closed, but it still appears in search results
 block "nyfco.org"
@@ -66,3 +104,13 @@ block "documentation-provence.org"
 block "idahotvep.org"
 block "cambridge-india.org"
 block "iketog.com"
+block "comisoku.com"
+block "vnews.work"
+block "vrtuber-news.com"
+block "kurojou.com"
+block "youtube5ch.com"
+block "budou-game.com"
+block "vtuber.matomemato.me"
+block "vtuber-news.com"
+block "jeep-m.jp"
+block "vtuber-labo.com"
