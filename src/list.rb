@@ -114,6 +114,7 @@ block "koregasiritai.com"
 block "youbunkakuritsu.blogspot.com", withoutSubdomain: true
 block "ashitanokioku.jp"
 block "newsnachricht.net"
+block_path "note.com/ppoch/*"
 
 # site is closed, but it still appears in search results
 block "nyfco.org"
