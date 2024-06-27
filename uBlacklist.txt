@@ -83,7 +83,6 @@
 *://*.kokopyon.net/*
 *://*.koku-byakunews.com/*
 *://*.komatsushima-life.net/*
-*://*.komatsushima-life.net/*
 *://*.koregasiritai.com/*
 *://*.kossy-trend.com/*
 *://*.kurojou.com/*
