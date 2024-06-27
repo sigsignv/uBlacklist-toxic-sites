@@ -1,0 +1,53 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'optparse'
+
+class Converter
+  class << self
+    def block_domain(name)
+      "*://*.#{name}/*"
+    end
+
+    def block_domain_exact(name)
+      "*://#{name}/*"
+    end
+  end
+end
+
+class Reader
+  def initialize()
+    @list = []
+  end
+
+  def load(str)
+    self.instance_eval(str)
+  end
+
+  def block(domain, withoutSubdomain: false)
+    if withoutSubdomain
+      @list << Converter::block_domain_exact(domain)
+    else
+      @list << Converter::block_domain(domain)
+    end
+  end
+
+  def show
+    @list.sort.each do |item|
+      puts item
+    end
+  end
+end
+
+reader = Reader.new
+
+optparse = OptionParser.new
+files = optparse.parse(ARGV)
+
+files.each do |file|
+  File.open(file) do |f|
+    reader.load(f.read)
+  end
+end
+
+reader.show
