@@ -12,6 +12,10 @@ class Converter
     def block_domain_exact(name)
       "*://#{name}/*"
     end
+
+    def block_path(path)
+      "*://#{path}"
+    end
   end
 end
 
@@ -30,6 +34,10 @@ class Reader
     else
       @list << Converter::block_domain(domain)
     end
+  end
+
+  def block_path(path)
+    @list << Converter::block_path(path)
   end
 
   def show
