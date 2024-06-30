@@ -10,7 +10,6 @@ block "seidentest.com"
 block "lagcapa.org"
 block "anogate.jp"
 block "xn--u9j5h1btf1ez99qnszei5c8ws.com" # 芸能人の裏ニュース.com
-block "minorie.com"
 block "shimashima01.net"
 block "syotiku9910.com"
 block "yuu01.jp"

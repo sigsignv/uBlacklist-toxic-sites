@@ -35,6 +35,7 @@
 *://*.comisoku.com/*
 *://*.coolpan.net/*
 *://*.cranq.jp/*
+*://*.dailytopic.jp/*
 *://*.daisy-times.com/*
 *://*.digitaldiy.jp/*
 *://*.digitalyouth.jp/*
