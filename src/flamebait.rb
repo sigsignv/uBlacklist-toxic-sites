@@ -46,6 +46,7 @@ block "vtuber-matomeblog.com"
 block "vtuber-matome-media.com"
 block "yaraon-blog.com"
 block "nan-nan.blog.jp", withoutSubdomain: true
+block "vtubersin.blog.jp", withoutSubdomain: true
 block "vtubersokuhou.blog.jp", withoutSubdomain: true
 block "vtuber-matomeruyon.blog.jp", withoutSubdomain: true
 block "vtuber-newsmtm.blog.jp", withoutSubdomain: true

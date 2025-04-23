@@ -32,6 +32,9 @@ block "youpress.jp"
 # 2024-06-27: ca-pub-1530334922024045
 block "sottyann.com"
 
+# 2025-04-23: ca-pub-1570604865407985
+block "tk-kmt.jp"
+
 # 2024-06-27: ca-pub-1683640017776004
 block "coaweek.org"
 
@@ -64,6 +67,9 @@ block "akanbo-media.jp"
 
 # 2024-06-27: ca-pub-2793295103642597
 block "pizzaofrock.com"
+
+# 2025-04-23: ca-pub-2999433699250850
+block "pichi-shiroishi.jp"
 
 # 2024-06-27: ca-pub-3192249542990922
 block "allaboutparadise.jp"
@@ -139,6 +145,9 @@ block "kossy-trend.com"
 
 # 2024-06-27: ca-pub-5159718417032661
 block "oshinisasageru.com"
+
+# 2025-04-23: ca-pub-5169793709738601
+block "yuyu7.blog"
 
 # 2024-06-27: ca-pub-5185624772577084
 block "ashitanokioku.jp"
@@ -288,6 +297,9 @@ block "sentou.jp"
 # 2024-06-27: ca-pub-8961712475506783
 block "asuoyama.jp"
 
+# 2025-04-23: ca-pub-8971067040292115
+block "art-vision.jp"
+
 # 2024-06-27: ca-pub-9003554950976090
 block "shootingbar-ea.jp"
 
@@ -313,6 +325,9 @@ block "phsmdcshineresidences.com"
 
 # 2024-06-27: ca-pub-9367695006711077
 block "cranq.jp"
+
+# 2025-04-23: ca-pub-9440650571365848
+block "color-code.jp"
 
 # 2024-06-27: ca-pub-9712932766410328
 block "unzen-amakusa.jp"
@@ -380,10 +395,12 @@ block "alpinearagon.com"
 block "asakuravc.jp"
 block "brokker.jp"
 block "bokoguma.com"
+block "chibamarathon.jp"
 block "daisy-times.com"
 block "documentation-provence.org"
 block "idahotvep.org"
 block "iketog.com"
+block "kumatanigram.jp"
 block "kururing.info"
 block "lab4g.net"
 block "linart.net"
