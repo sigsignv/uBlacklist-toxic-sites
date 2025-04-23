@@ -6,7 +6,7 @@
 block "aidoly.net"
 block "ranky-ranking.net"
 
-# 2024-06-27: wp:keni80
+# 2024-06-27: ca-pub-8734591441415035
 block "aokiin.com"
 
 # 2024-06-27: ca-pub-9330239808282484
