@@ -14,6 +14,7 @@
 *://*.aoimori-norin.jp/*
 *://*.aokiin.com/*
 *://*.apexheadline.com/*
+*://*.art-vision.jp/*
 *://*.artzone.jp/*
 *://*.asakuravc.jp/*
 *://*.asamuch.com/*
@@ -27,8 +28,10 @@
 *://*.budou-game.com/*
 *://*.caso-gallery.jp/*
 *://*.cheat-sokuhou.com/*
+*://*.chibamarathon.jp/*
 *://*.coaweek.org/*
 *://*.collieme.com/*
+*://*.color-code.jp/*
 *://*.comedydouga.com/*
 *://*.comisoku.com/*
 *://*.coolpan.net/*
@@ -82,6 +85,7 @@
 *://*.komatsushima-life.net/*
 *://*.koregasiritai.com/*
 *://*.kossy-trend.com/*
+*://*.kumatanigram.jp/*
 *://*.kurojou.com/*
 *://*.kururing.info/*
 *://*.lab4g.net/*
@@ -133,6 +137,7 @@
 *://*.paradeparade.jp/*
 *://*.pentanews.net/*
 *://*.phsmdcshineresidences.com/*
+*://*.pichi-shiroishi.jp/*
 *://*.pimmsofficial.com/*
 *://*.pizzaofrock.com/*
 *://*.pomomoy.com/*
@@ -169,6 +174,7 @@
 *://*.tenbus.info/*
 *://*.tennisblog.org/*
 *://*.ti-blg-02.com/*
+*://*.tk-kmt.jp/*
 *://*.tohyotalk.com/*
 *://*.tokyo-animetourism.jp/*
 *://*.topic-lab.com/*
@@ -210,6 +216,7 @@
 *://*.yura-time.com/*
 *://*.yutura.net/*
 *://*.yuu01.jp/*
+*://*.yuyu7.blog/*
 *://*.zaitakusyufu.net/*
 *://asbelllrin.livedoor.blog/*
 *://hakkisi.blog.fc2.com/*
@@ -223,5 +230,6 @@
 *://vtuber-matomeruyon.blog.jp/*
 *://vtuber-newsmtm.blog.jp/*
 *://vtuber-nijihoro.blog.jp/*
+*://vtubersin.blog.jp/*
 *://vtubersokuhou.blog.jp/*
 *://youbunkakuritsu.blogspot.com/*
