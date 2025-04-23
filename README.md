@@ -17,4 +17,4 @@ Sigsign <<sig@signote.cc>>
 ## License
 
 - Apache-2.0
-- `src/list.rb` のみ MIT-0 でライセンスされています。好きに改変してください。
+- `src/` 配下の定義ファイルは MIT-0 でライセンスされています。自由に利用してください。
