@@ -39,7 +39,6 @@
 *://*.digitalyouth.jp/*
 *://*.documentation-provence.org/*
 *://*.doujinsokuhou45.com/*
-*://*.drinkdsm.com/*
 *://*.dyslexia-az.org/*
 *://*.e-fugu.jp/*
 *://*.efire-matome.com/*
@@ -63,7 +62,6 @@
 *://*.hanesokunews.net/*
 *://*.hilokume.jp/*
 *://*.himmel-ellipse.com/*
-*://*.hinachoice.com/*
 *://*.hinanoto.com/*
 *://*.hiramine.xyz/*
 *://*.holo-news.com/*
@@ -89,7 +87,6 @@
 *://*.lab4g.net/*
 *://*.lagcapa.org/*
 *://*.lefty322.com/*
-*://*.legalbigbang.com/*
 *://*.linart.net/*
 *://*.livecafe-jive.com/*
 *://*.logtube.jp/*
@@ -125,12 +122,10 @@
 *://*.nicolehappiness.com/*
 *://*.nicotubers.com/*
 *://*.nijihorosokuvtubermatome.com/*
-*://*.nikemaru.com/*
 *://*.ningennojikan.com/*
 *://*.nyfco.org/*
 *://*.obetokoshi.com/*
 *://*.one-search.net/*
-*://*.oritrenews.com/*
 *://*.oshinisasageru.com/*
 *://*.oyasukyo.jp/*
 *://*.ozakisagashite.jp/*
@@ -178,8 +173,6 @@
 *://*.tokyo-animetourism.jp/*
 *://*.topic-lab.com/*
 *://*.trandays.com/*
-*://*.tsuiran.jp/*
-*://*.tuber-ch.com/*
 *://*.tuber-review.com/*
 *://*.tuberz.net/*
 *://*.unkochan893.com/*
@@ -198,9 +191,7 @@
 *://*.vyoutuber.com/*
 *://*.wadainomori.net/*
 *://*.waiparavalleynz.com/*
-*://*.wb-otsuchi.com/*
 *://*.writer-life.com/*
-*://*.xn--j9j243ljipfhp.biz/*
 *://*.xn--u9j5h1btf1ez99qnszei5c8ws.com/*
 *://*.xr-hub.com/*
 *://*.xserver-1.com/*
