@@ -12,3 +12,15 @@ block "aokiin.com"
 # 2024-06-27: ca-pub-9330239808282484
 block "minorie.com"
 block "dailytopic.jp"
+
+# site is closed, but it still appears in search results
+block "documentation-provence.org"
+block "idahotvep.org"
+block "iketog.com"
+block "mitsuya-magazine.com"
+block "nicolehappiness.com"
+block "nicotubers.com"
+block "nyfco.org"
+block "prospectmedicalholdings.com"
+block "tuberz.net"
+block "youtubernews.net"

@@ -21,12 +21,10 @@
 *://*.asuoyama.jp/*
 *://*.atodeyo.com/*
 *://*.bibi-star.jp/*
-*://*.blackshirts.info/*
 *://*.bokoguma.com/*
 *://*.brokker.jp/*
 *://*.brownlind.xyz/*
 *://*.budou-game.com/*
-*://*.cambridge-india.org/*
 *://*.caso-gallery.jp/*
 *://*.cheat-sokuhou.com/*
 *://*.coaweek.org/*
