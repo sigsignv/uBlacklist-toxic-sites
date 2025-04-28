@@ -17,4 +17,4 @@ Sigsign <<sig@signote.cc>>
 ## License
 
 - Apache-2.0
-- `src/` 配下の定義ファイルは MIT-0 でライセンスされています。自由に利用してください。
+- `uBlacklist.txt` は MIT-0 でライセンスされています。ライセンスファイルを同梱せずに改変・再配布しても構いません。

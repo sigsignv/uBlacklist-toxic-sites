@@ -1,5 +1,6 @@
 ---
 name: uBlacklist ruleset for toxic sites
+license: MIT-0
 ---
 *://*.1blog.jp/*
 *://*.2ch-c.net/*
