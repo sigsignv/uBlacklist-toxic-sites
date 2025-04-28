@@ -1,3 +1,6 @@
+---
+name: uBlacklist filter for toxic sites
+---
 *://*.1blog.jp/*
 *://*.2ch-c.net/*
 *://*.5chmap.com/*

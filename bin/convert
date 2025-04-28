@@ -2,6 +2,7 @@
 # frozen_string_literal: true
 
 require 'optparse'
+require 'yaml'
 
 class Converter
   class << self
@@ -49,12 +50,26 @@ end
 
 reader = Reader.new
 
-optparse = OptionParser.new
+options = {}
+optparse = OptionParser.new do |opts|
+  opts.banner = "Usage: convert [options] /path/to/file"
+  opts.on("-f", "--frontmatter FILE", "Specify the file to use for frontmatter") do |frontmatter|
+    options[:frontmatter] = frontmatter
+  end
+end
 files = optparse.parse(ARGV)
 
 files.each do |file|
   File.open(file) do |f|
     reader.load(f.read)
+  end
+end
+
+if options[:frontmatter]
+  File.open(options[:frontmatter]) do |f|
+    yaml = YAML.safe_load(f.read)
+    puts YAML.dump(yaml)
+    puts "---"
   end
 end
 
