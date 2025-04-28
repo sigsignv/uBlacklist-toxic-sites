@@ -1,5 +1,5 @@
 ---
-name: uBlacklist filter for toxic sites
+name: uBlacklist ruleset for toxic sites
 ---
 *://*.1blog.jp/*
 *://*.2ch-c.net/*

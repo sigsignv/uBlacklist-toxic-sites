@@ -1,6 +1,6 @@
-# uBlacklist toxic site
+# uBlacklist ruleset for toxic sites
 
-toxic なサイトを検索結果から除外する uBlacklist 用のフィルターです。
+toxic なサイトを検索結果から除外する uBlacklist 用のルールセットです。
 
 ## Subscribe
 
